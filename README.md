@@ -12,4 +12,4 @@ https://www.loom.com/share/8920f6f3d2e34036a4b6495d83fa1c49?sid=d8c29c05-571a-43
 
  <!-- Postman Collection -->
 
-file is added in repo as well
+postman json file is added in repo as well
